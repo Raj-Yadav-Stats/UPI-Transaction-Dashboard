@@ -70,13 +70,14 @@ Top banks: HDFC, SBI, Axis, ICICI
 50/50 gender distribution
 
 📂 Project Structure
+```text
 UPI-Transaction-Dashboard/
 │
 ├── UPI Transactions.pbix
 ├── UPI+Transactions.xlsx
 ├── Screenshot 2025-11-14 214311.png
 └── README.md
-
+```
 🛠 How to Use
 
 Download the .pbix file
